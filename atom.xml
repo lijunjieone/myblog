@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-05-21T22:00:52+08:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://lijunjieone.github.io/myblog/atom.xml" rel="self"/>
+  <link href="http://lijunjieone.github.io/myblog/"/>
+  <updated>2013-05-21T22:20:12+08:00</updated>
+  <id>http://lijunjieone.github.io/myblog/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Lijunjie]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[first_blog]]></title>
-    <link href="http://yoursite.com/blog/2013/05/21/first-blog/"/>
+    <link href="http://lijunjieone.github.io/myblog/blog/2013/05/21/first-blog/"/>
     <updated>2013-05-21T21:57:00+08:00</updated>
-    <id>http://yoursite.com/blog/2013/05/21/first-blog</id>
+    <id>http://lijunjieone.github.io/myblog/blog/2013/05/21/first-blog</id>
     <content type="html"><![CDATA[<h1>使用octopress来写博客</h1>
 
 <ul>
